@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20194a24ebdd7b14601916477d6dff18/jetified-androidtoggleswitch-2.0.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20194a24ebdd7b14601916477d6dff18/jetified-androidtoggleswitch-2.0.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/20194a24ebdd7b14601916477d6dff18/jetified-androidtoggleswitch-2.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d50c8616a77be983d4a8c23f2a9b93f3/jetified-androidtoggleswitch-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d50c8616a77be983d4a8c23f2a9b93f3/jetified-androidtoggleswitch-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d50c8616a77be983d4a8c23f2a9b93f3/jetified-androidtoggleswitch-2.0.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.llollox/androidtoggleswitch/2.0.1/3cea545002e3da6d4d79509c57ae4382c728b214/androidtoggleswitch-2.0.1-javadoc.jar!/" />
